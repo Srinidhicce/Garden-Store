@@ -1,0 +1,45 @@
+body {
+    background-image: url("D:/img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.slogan {
+    background-color: rgb(147, 214, 147);
+    border-radius: 20px;
+    width: 700px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h1::first-letter {
+    font-size: 100px;
+    color: rgb(14, 72, 53);
+}
+
+.name {
+    padding-top: 60px;
+    padding-left: 700px;
+}
+
+.signup {
+    color: aliceblue;
+    padding-top: 500px;
+    padding-left: 700px;
+    background-color: rgb(103, 161, 142);
+
+}
+
+.login {
+    color: rgb(31, 32, 33);
+    padding-top: 500px;
+    padding-left: 900px;
+    background-color: rgb(186, 224, 212);
+ 
+}
